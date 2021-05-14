@@ -620,7 +620,7 @@ button.is_active span{
 .button--secondary {
   position: relative;
   display: flex;
-  align-items: center;
+  align-items: top;
   justify-content: space-between;
   background-color: #fff;
   color: #cd0505;
