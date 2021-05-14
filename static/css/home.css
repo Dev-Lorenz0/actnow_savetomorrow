@@ -618,7 +618,6 @@ button.is_active span{
 }
 
 .button--secondary {
-  top: 200px;
   position: relative;
   display: flex;
   align-items: center;
